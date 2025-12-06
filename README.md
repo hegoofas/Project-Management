@@ -74,3 +74,4 @@ You can find in this repository:
 - Dataset(s) used  
 
 ## 🔗 Project Link
+- https://www.linkedin.com/posts/ibrahim-abdulghfar-a0b13a364_powerbi-dataanalytics-dashboard-activity-7373326115035136003-11v7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpuyCsBNij9rn_9jYrSPVjIHEViYJtJTQY
